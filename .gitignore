@@ -1,1 +1,11 @@
 data/SDSSspecgalsDR8full.fits
+img/*.jpg
+fig/*.png
+code/__pycache__/*
+code/test.py
+.ipynb_checkpoints/
+.DS_Store
+class2_powerspectrum.ipynb
+class3and4_powerspectrum.ipynb
+class5and6_nonlinearformation.ipynb
+class9_clustering.ipynb
