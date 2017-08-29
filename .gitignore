@@ -1,8 +1,8 @@
 data/SDSSspecgalsDR8full.fits
 img/*.jpg
 fig/*.png
-code/__pycache__/*
-code/test.py
+classcode/__pycache__/*
+classcode/test.py
 .ipynb_checkpoints/
 .DS_Store
 class2_powerspectrum.ipynb
