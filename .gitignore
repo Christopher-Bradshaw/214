@@ -5,7 +5,8 @@ classcode/__pycache__/*
 classcode/test.py
 .ipynb_checkpoints/
 .DS_Store
-class2_powerspectrum.ipynb
 class3and4_powerspectrum.ipynb
 class5and6_nonlinearformation.ipynb
-class9_clustering.ipynb
+class7and8_darkmatterhalos.ipynb
+class9and10_clustering.ipynb
+temp_stuff.ipynb
